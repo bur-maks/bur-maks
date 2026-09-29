@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  Computer Engineering student focused on C++ backend development,
-  networking and system programming.
+  Computer Science and Computer Engineering student at INRTU focused on
+  C++ backend development, networking and system programming.
 </p>
 
 ---
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About me
 
-- 🎓 Computer Engineering student at **IRNITU**
+- 🎓 Computer Science and Computer Engineering student at **INRTU**
 - 💻 Main programming language: **C++**
 - 🐧 Working and learning in **Linux**
 - 🌐 Interested in **backend development, networking and system programming**
